@@ -83,8 +83,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-https://imgur.com/a/66hcd.gif
+https://giphy.com/gifs/3WuY1AtV95p9wxj1VT/html5
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
